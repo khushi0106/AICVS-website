@@ -1,0 +1,42 @@
+body{margin: 0px;
+    font-family:'Merriweather', serif;
+}
+h1{ color: #333;
+    cursor: pointer;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    letter-spacing: 1px;
+  }
+
+hr  { background-color: #c9d6df;
+       border-style: none;
+       border-top-style:solid;
+       height: 0px;
+       width: 90%;
+       border-width: 1px;
+       border-color: grey;
+    }
+
+.Photo{    width: 70px;
+           height: 70px;
+           margin-left: 70px;
+         }
+.club-des{ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+         }
+.first{background-image: url(https://www.innovapptive.com/hubfs/The%20Impact%20of%20Artificial%20Intelligence%20%26amp_%20Machine%20Learning%20%28AI_ML%29%20on%20Operations_BLOG%20COVER_20200225.png);
+      }
+.footer{ text-align: center;
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.footer-link{
+             color: white;
+             font-family: 'Montserrat',sans-serif;
+             margin: 10px 20px;
+             text-decoration: none;}
+a:hover{color: purple;}
+.copyright{color: #EAF6F6;
+          padding: 10px 0;
+          font-size: 0.75rem;}
